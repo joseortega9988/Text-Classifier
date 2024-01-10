@@ -28,4 +28,4 @@ The notebook documents the creation of a sentiment analysis tool using a well-kn
 ## Conclusion 
 With an accuracy of 89%, the model demonstrates a high level of correctness in its predictions, which is commendable for a text classification task. 
 
-**For more details, please view the jypiter notebook!**
+**For more details, please view the jupyter notebook!**
