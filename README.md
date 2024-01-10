@@ -5,7 +5,7 @@ The notebook documents the creation of a sentiment analysis tool using a well-kn
 
 
 ## Database/Dataset Used
-##### To run the file, please unzip the database in the directory or download it
+##### To run the file, please download the database and put it in the directory
 - **Dataset Name**: Large Movie Review Dataset
 - **Source**: Stanford AI Lab
 - **URL**: [Large Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
