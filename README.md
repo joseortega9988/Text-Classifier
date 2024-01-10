@@ -1,5 +1,5 @@
 # Text Classifier 
-The notebook documents the creation of a sentiment analysis tool using a well-known movie review dataset from Stanford AI Lab
+The notebook documents the creation of a sentiment text classifier using a well-known imbd movie review dataset from Stanford AI Lab
 
 # Summary of the Text Classifier
 
